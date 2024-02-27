@@ -1,3 +1,7 @@
+<h1>Screenshot</h1>
+
+<img width="1456" alt="Screenshot 2024-02-28 at 1 52 51 AM" src="https://github.com/Fury-MadMax/Fact-Communicator/assets/57502102/0551a0d7-e012-470d-8724-ae094cd326ce">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
